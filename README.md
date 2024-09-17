@@ -12,7 +12,7 @@ Welcome everybody! I’m a Full Stack Web Developer passionate about creating on
 - Exploring the vast potential of AI and diving deep into its practical applications. 🤖
 
 # 📩Contact me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/steven-sanz-grau/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-sanz-grau/)
 
 # 💻Last projects
 [AutoAgenda](https://github.com/StevenSanz/AutoAgenda)
