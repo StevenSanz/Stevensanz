@@ -1,4 +1,4 @@
-## Hi there 👋, i'm Steven!
+## Hi there 👋, I'm Steven!
 Welcome everybody! I’m a Full Stack Web Developer passionate about creating online experiences. Always looking to learn, improve, and share my knowledge with the community. 🧑‍💻
 
 # 🔧 Skills
